@@ -7,3 +7,5 @@ Features include:
 - Depositing money
 - Checking your balance
 - Pin system (setting up a new pin, changing pins, etc)
+
+If you wish to run this program, click the green "Code" button, click "Download ZIP", open up the file on your file explorer, and in your IDE, drag in all the files.
